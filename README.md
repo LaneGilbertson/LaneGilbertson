@@ -14,7 +14,7 @@
 ## 📂 Featured Projects
 - **Job Market Data Analysis (In Progress) (Python, SQL, Tableau)**  
   (description)
-  🔗 *[Job Market Data Analysis Project Link](https://github.com/LaneGilbertson/job-market-data-analysis)*
+  🔗 *[Project Link]()*
 
 ## 📫 Contact
 - LinkedIn: *www.linkedin.com/in/lane-gilbertson-1716983a9*
