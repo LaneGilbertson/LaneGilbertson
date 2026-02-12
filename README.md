@@ -12,7 +12,7 @@
 - **Other:** HTML
 
 ## 📂 Featured Projects
-- **Project Name (Skills used)**  
+- **Job Market Data Analysis (In Progress) (Python, SQL, Tableau)**  
   (description)
   🔗 *Link coming soon*
 
