@@ -1,10 +1,10 @@
-# Hi, I’m Lane Gilbertson 👋
+# Hi, I’m Lane Gilbertson
 
-🎓 December 2025 graduate with a B.S. in Data Science and a certificate in Computer Science from The University of Wisconsin-Madison
+December 2025 graduate with a B.S. in Data Science and a certificate in Computer Science from The University of Wisconsin-Madison
 📊 Aspiring Data Analyst  
-💡 Interested in data-driven decision making and business analytics
+Interested in data-driven decision making and business analytics
 
-## 🛠 Technical Skills
+## Technical Skills
 - **Languages:** Python, R, SQL
 - **Python:** Pandas, NumPy, Matplotlib, Scikit-learn, SQLite
 - **R:** dplyr, ggplot2, tidyr
@@ -16,6 +16,6 @@
   (description)
   🔗 *[Project Link]()*
 
-## 📫 Contact
+## Contact
 - LinkedIn: *www.linkedin.com/in/lane-gilbertson-1716983a9*
 - Email: *LaneGilbertson@outlook.com*
