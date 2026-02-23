@@ -12,9 +12,9 @@ Interested in data-driven decision making and business analytics
 - **Other:** HTML
 
 ## 📂 Featured Projects
-- **Job Market Data Analysis (In Progress) (Python, SQL, Tableau)**  
+- **E-Commerce Sales Analysis Dashboard (In Progress) (Python, SQL, Tableau)**  
   (description)
-  🔗 *[Project Link](https://github.com/LaneGilbertson/ecommerce-sales-analysis-dashboard)*
+  🔗 *[Project Link](https://github.com/LaneGilbertson/ecommerce-sales-analysis-dashboard/blob/main/README.md)*
 
 ## Contact
 - LinkedIn: *www.linkedin.com/in/lane-gilbertson-1716983a9*
