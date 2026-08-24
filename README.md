@@ -8,12 +8,12 @@ Interested in data-driven decision making and business analytics
 - **Languages:** Python, R, SQL
 - **Python:** Pandas, NumPy, Matplotlib, Scikit-learn, SQLite
 - **R:** dplyr, ggplot2, tidyr
-- **Tools:** Git, GitHub, Google Cloud (VMs)
+- **Tools:** Git, GitHub, Power BI, Tableau, Google Cloud (VMs)
 - **Other:** HTML
 
 ## 📂 Featured Projects
 - **E-Commerce Sales Analysis Dashboard (In Progress) (Python, SQL, Tableau)**  
-  (description)
+  This project analyzes transactional e-commerce sales data to uncover insights related to revenue trends, product performance, customer behavior, and regional profitability.
   🔗 *[Project Link](https://github.com/LaneGilbertson/ecommerce-sales-analysis-dashboard/blob/main/README.md)*
 
 ## Contact
